@@ -7,5 +7,5 @@
 
 ### LeetCode
 ### Array
-[twoSum](./leetCode/Array/twoSum.md)/
+[twoSum](../leetCode/Array/twoSum.md)
 
