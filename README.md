@@ -5,3 +5,7 @@
 [6011-6020](./CodeUp100/6011-6020.md)/
 [6021-6030](./CodeUp100/6021-6030.md)
 
+### LeetCode
+### Array
+[twoSum](./leetCode/Array/twoSum.md)/
+
