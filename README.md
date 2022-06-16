@@ -12,5 +12,5 @@ Algorithm 풀이 정리 🦾
 
 ### LeetCode
 ### Array
-[twoSum](./LeetCode/Array/twoSum.md)
+[twoSum](./LeetCode/Array/twoSum.md)/[majorityElement](./LeetCode/Array/majorityElement.md)
 
