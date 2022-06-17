@@ -11,6 +11,5 @@ Algorithm 풀이 정리 🦾
 [6051-6060](./CodeUp100/6051-6060.md)/
 
 ### LeetCode
-### Array
 [twoSum](./LeetCode/Array/twoSum.md)/[majorityElement](./LeetCode/Array/majorityElement.md)
 
