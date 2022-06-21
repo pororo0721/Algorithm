@@ -10,6 +10,8 @@ Algorithm 풀이 정리 🦾
 [6041-6050](./CodeUp100/6041-6050.md)/
 [6051-6060](./CodeUp100/6051-6060.md)/
 [6061-6070](./CodeUp100/6061-6070.md)/
+[6071-6080](./CodeUp100/6071-6080.md)/
+
 
 ### LeetCode
 [twoSum](./LeetCode/Array/twoSum.md)/[majorityElement](./LeetCode/Array/majorityElement.md)
