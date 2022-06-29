@@ -12,6 +12,8 @@ Algorithm 풀이 정리 🦾
 [6061-6070](./CodeUp100/6061-6070.md)/
 [6071-6080](./CodeUp100/6071-6080.md)/
 [6081-6090](./CodeUp100/6081-6090.md)/
+[6091-6095](./CodeUp100/6091-6095.md)/
+[6096](./CodeUp100/6096.md)/
 
 ### LeetCode
 [twoSum](./LeetCode/Array/twoSum.md)/[majorityElement](./LeetCode/Array/majorityElement.md)/[Remove Duplicates from Sorted Array](./LeetCode/Array/removeDuplicates.md)
