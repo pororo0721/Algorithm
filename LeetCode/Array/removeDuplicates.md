@@ -33,7 +33,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 |                |`curr과 값이 같다면 다음 요소로 넘어간다.` |
 |                |`curr과 값이 같지 않다면, curr을 현재 값으로 업데이트하고 count값을 하나 증가 시킨다.` |
 |                |`count 값을 증가시키기 전에 count가 인덱스가 되어 해당 공간에 달라진 curr 값으로 업데이트한다.` |
-|시간 복잡도      | O(n) 배열의 모든 요소 n개를 순회해야 한다.|
+|시간 복잡도      | O(N) 배열의 모든 요소 n개를 순회해야 한다.|
 |공간 복잡도      | O(1)                                   |
 
 
