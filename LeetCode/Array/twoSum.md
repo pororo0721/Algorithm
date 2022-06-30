@@ -59,7 +59,7 @@ class Solution:
     def twoSum(self, nums:list[int], targete:int)-> list[int]:
         hashtable_dict={}
 
-        for in range(len(nums)):
+        for i in range(len(nums)):
             value=target-nums[i]
 
             if hashtable_dict.get(value) is not None and hastable_dict[value] !=i:
