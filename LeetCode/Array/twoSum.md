@@ -56,7 +56,7 @@ class Soultion:
 
 ```
 class Solution:
-    def twoSum(self, nums:list[int], targete:int)-> list[int]:
+    def twoSum(self, nums:list[int], target:int)-> list[int]:
         hashtable_dict={}
 
         for i in range(len(nums)):
