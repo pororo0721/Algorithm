@@ -16,5 +16,4 @@ Algorithm 풀이 정리 🦾
 [6096](./CodeUp100/6096.md)/
 
 ### LeetCode
-[twoSum](./LeetCode/Array/twoSum.md)/[majorityElement](./LeetCode/Array/majorityElement.md)/[Remove Duplicates from Sorted Array](./LeetCode/Array/removeDuplicates.md)/
-[searchInsert](./LeetCode/Array/searchInsert.md
+[twoSum](./LeetCode/Array/twoSum.md)/[majorityElement](./LeetCode/Array/majorityElement.md)/[Remove Duplicates from Sorted Array](./LeetCode/Array/removeDuplicates.md)/[searchInsert](./LeetCode/Array/searchInsert.md
