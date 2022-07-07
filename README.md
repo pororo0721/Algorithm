@@ -19,4 +19,4 @@ Algorithm 풀이 정리 🦾
 
 ### LeetCode
 [TwoSum](./LeetCode/Easy/twoSum.md)/[MajorityElement](./LeetCode/Easy/majorityElement.md)
-/[Remove Duplicates from Sorted Array](./LeetCode/Easy/removeDuplicates.md)/ [SearchInsert](./LeetCode/Easy/searchInsert.md)/
+/[Remove Duplicates from Sorted Array](./LeetCode/Easy/removeDuplicates.md)/ [SearchInsert](./LeetCode/Easy/searchInsert.md)/[MergeSortedArray](./LeetCode/Easy/mergeSortedArray.md)
