@@ -50,7 +50,7 @@ class Solution:
 
 ```
 
-### 아이디어2(Hash Table)
+### 아이디어2(Binary Search)
 
 ```
 class Solution:
