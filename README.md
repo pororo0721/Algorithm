@@ -15,7 +15,7 @@ Algorithm 풀이 정리 🦾
 [6091-6095](./CodeUp100/6091-6095.md)/
 [6096](./CodeUp100/6096.md)/
 [6097](./CodeUp100/6097.md)/
-[6098](./CodeUp100/6098.md)/
+[6098](./CodeUp100/6098.md)
 
 ### LeetCode
 [TwoSum](./LeetCode/Easy/twoSum.md)/[MajorityElement](./LeetCode/Easy/majorityElement.md)
