@@ -46,7 +46,7 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 
 
-### 아이디어1(Brute-Force)
+### 아이디어1(Sorting)
 
 ```
 class Solution:
@@ -58,7 +58,7 @@ class Solution:
 
 ```
 
-### 아이디어2(Hash Table)
+### 아이디어2(Two Pointers)
 
 ```
 class Solution:
