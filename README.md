@@ -21,7 +21,7 @@ Algorithm 풀이 정리 🦾
 ### Easy 
 [TwoSum](./LeetCode/Easy/twoSum.md)/[MajorityElement](./LeetCode/Easy/majorityElement.md)
 /[Remove Duplicates from Sorted Array](./LeetCode/Easy/removeDuplicates.md)/ [SearchInsert](./LeetCode/Easy/searchInsert.md)/[MergeSortedArray](./LeetCode/Easy/mergeSortedArray.md)/[Pascal's Triangle](./LeetCode/Easy/pascalsTriangle.md)/
-[Missing Number](./LeetCode/Easy/missingNumber.md)/[](./LeetCode/Easy/validPalindrome.md)
+[Missing Number](./LeetCode/Easy/missingNumber.md)/[Valid Palindrome](./LeetCode/Easy/validPalindrome.md)
 
 ### Medium
 [Rotate Array](./LeetCode/Medium/rotateArray.md)/
