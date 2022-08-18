@@ -25,4 +25,4 @@ Algorithm 풀이 정리 🦾
 [Reverse Linked List](./LeetCode/Easy/reverseLinkedList.md)
 
 ### Medium
-[Rotate Array](./LeetCode/Medium/rotateArray.md)/
+[Rotate Array](./LeetCode/Medium/rotateArray.md)/[Subsets](./LeetCode/Medium/subsets.md)
