@@ -51,5 +51,19 @@ class Solution:
 
 ```
 
+### 아이디어2
+
+```
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        result=[]
+
+        for i in range(len(nums)+1):
+            result += list(itertools.combinations(nums,i))
+
+            return result
+
+```
+
 
 
