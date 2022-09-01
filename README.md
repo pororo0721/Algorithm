@@ -26,4 +26,4 @@ Algorithm 풀이 정리 🦾
 
 ### Medium
 [Rotate Array](./LeetCode/Medium/rotateArray.md)/[Subsets](./LeetCode/Medium/subsets.md)
-/[Word Search](./LeetCode/Medium/wordSearch.md)
+/[Word Search](./LeetCode/Medium/wordSearch.md)/[Group Anagrams](./LeetCode/Medium/groupAnagrams.md)
